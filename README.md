@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @alyahmin
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developing
